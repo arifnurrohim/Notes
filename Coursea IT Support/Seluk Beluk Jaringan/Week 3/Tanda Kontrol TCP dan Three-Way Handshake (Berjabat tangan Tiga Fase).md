@@ -1,0 +1,10 @@
+**Summary:**
+TCP (Transmission Control Protocol) is a networking protocol that establishes connections to send long chains of data segments. In contrast to lower-level protocols like IP and Ethernet that send individual packets, TCP uses control flags in a specific order to establish and manage connections. The six TCP control flags are URG (Urgent), ACK (Acknowledge), PSH (Push), RST (Reset), SYN (Synchronize), and FIN (Finish). Each flag serves a specific purpose, such as indicating urgency, acknowledging data, pushing buffered data, resetting the connection, synchronizing sequence numbers, and signaling the end of data transmission.
+
+**Translation to Indonesian:**
+**Ringkasan:**
+TCP (Transmission Control Protocol) adalah protokol jaringan yang membentuk koneksi untuk mengirimkan rantai panjang segmen data. Berbeda dengan protokol tingkat rendah seperti IP dan Ethernet yang mengirimkan paket individu, TCP menggunakan bendera kontrol dalam urutan tertentu untuk membentuk dan mengelola koneksi. Enam bendera kontrol TCP adalah URG (Urgent), ACK (Acknowledge), PSH (Push), RST (Reset), SYN (Synchronize), dan FIN (Finish). Setiap bendera memiliki tujuan khusus, seperti menandakan urgensi, mengakui data, mendorong data yang telah di-buffer, mereset koneksi, menyinkronkan nomor urutan, dan memberi sinyal akhir transmisi data.
+
+
+Next : [[Status Soket TCP]]
+
