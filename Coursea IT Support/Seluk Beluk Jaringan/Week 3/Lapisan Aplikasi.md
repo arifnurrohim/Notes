@@ -1,0 +1,15 @@
+Summary:
+The lesson introduces the application layer in computer networking, marking the completion of coverage for various layers in the networking module. It reviews the physical layer's role in processing signals, the data link layer's use of Ethernet for addressing and data transfer, the network layer's utilization of IP for communication across different networks, and the transportation layer's responsibility for proper data transmission. The focus shifts to the application layer, emphasizing how actual applications send and receive data.
+
+The lesson highlights that TCP segments at the application layer have a generic data section representing the entire contents of data applications want to exchange. It could range from web page contents to streaming video or document data. The application layer involves numerous protocols tailored for different purposes, and while it doesn't delve into specific protocols, the concept of standardized communication across application types is emphasized.
+
+The example of web browsers and servers illustrates how different clients and servers must speak the same protocol—HTTP in this case—to ensure interoperability. The concept extends to various application classes, where diverse choices for clients still need to adhere to specific protocols, such as FTP. Overall, the lesson underscores the importance of standardized communication protocols for seamless interaction between different applications, browsers, and servers.
+
+Ringkasan:
+Pelajaran ini memperkenalkan lapisan aplikasi dalam jaringan komputer, menandai penyelesaian cakupan berbagai lapisan dalam modul jaringan. Ini meninjau peran lapisan fisik dalam memproses sinyal, penggunaan Ethernet oleh lapisan data link untuk pengalamatan dan transfer data, penggunaan IP oleh lapisan jaringan untuk komunikasi antar jaringan yang berbeda, dan tanggung jawab lapisan transport terhadap transmisi data yang benar. Fokus beralih ke lapisan aplikasi, dengan menekankan bagaimana aplikasi sebenarnya mengirim dan menerima data.
+
+Pelajaran ini menyoroti bahwa segmen TCP pada lapisan aplikasi memiliki bagian data generik yang mewakili seluruh konten yang ingin aplikasi pertukarkan. Ini dapat mencakup konten halaman web, streaming video, atau data dokumen. Lapisan aplikasi melibatkan banyak protokol yang disesuaikan untuk berbagai tujuan, dan meskipun tidak mendalam ke protokol tertentu, konsep komunikasi standar lintas jenis aplikasi ditekankan.
+
+Contoh dari browser web dan server mengilustrasikan bagaimana klien dan server yang berbeda harus berbicara dalam protokol yang sama—HTTP dalam hal ini—untuk memastikan interoperabilitas. Konsep ini diperluas ke berbagai kelas aplikasi, di mana pilihan beragam untuk klien masih perlu patuh pada protokol tertentu, seperti FTP. Secara keseluruhan, pelajaran ini menekankan pentingnya protokol komunikasi standar untuk interaksi yang lancar antara berbagai aplikasi, browser, dan server.
+
+Read Before : [[Firewall]]

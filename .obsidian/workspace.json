@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coursea IT Support/Seluk Beluk Jaringan/Week 3/Protokol Berorientasi Koneksi dan Tanpa Koneksi.md",
+                "file": "Coursea IT Support/Seluk Beluk Jaringan/Week 3/Lapisan Aplikasi.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coursea IT Support/Seluk Beluk Jaringan/Week 3/Protokol Berorientasi Koneksi dan Tanpa Koneksi.md",
+                "file": "Coursea IT Support/Seluk Beluk Jaringan/Week 3/Lapisan Aplikasi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Coursea IT Support/Seluk Beluk Jaringan/Week 3/Protokol Berorientasi Koneksi dan Tanpa Koneksi.md",
+                "file": "Coursea IT Support/Seluk Beluk Jaringan/Week 3/Lapisan Aplikasi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Coursea IT Support/Seluk Beluk Jaringan/Week 3/Protokol Berorientasi Koneksi dan Tanpa Koneksi.md"
+                "file": "Coursea IT Support/Seluk Beluk Jaringan/Week 3/Lapisan Aplikasi.md"
               }
             }
           }
@@ -148,11 +148,15 @@
   },
   "active": "2a98b9dd0a432aa8",
   "lastOpenFiles": [
-    "Coursea IT Support/Seluk Beluk Jaringan/Week 3/Status Soket TCP.md",
+    "Coursea IT Support/Seluk Beluk Jaringan/Week 3/Firewall.md",
+    "Coursea IT Support/Seluk Beluk Jaringan/Week 3/Lapisan Aplikasi.md",
+    "Coursea IT Support/Seluk Beluk Jaringan/Week 3/Bahan Bacaan Tambahan untuk membandingkan Porta Sistem dan Ephemeral.md",
+    "README.md",
     "Coursea IT Support/Seluk Beluk Jaringan/Week 3/Protokol Berorientasi Koneksi dan Tanpa Koneksi.md",
+    "Coursea IT Support/Seluk Beluk Jaringan/Week 3/Status Soket TCP.md",
+    "Coursea IT Support/Seluk Beluk Jaringan/Week 3/Tanda Kontrol TCP dan Three-Way Handshake (Berjabat tangan Tiga Fase).md",
     "Coursea IT Support/Seluk Beluk Jaringan/Week 2/Protokol Gateway interior.md",
     "Coursea IT Support/Welcome to the Course.md",
-    "Coursea IT Support/Seluk Beluk Jaringan/Week 3/Tanda Kontrol TCP dan Three-Way Handshake (Berjabat tangan Tiga Fase).md",
     "Coursea IT Support/Seluk Beluk Jaringan/Week 2",
     "Coursea IT Support/Seluk Beluk Jaringan/Week 3",
     "Welcome.md",

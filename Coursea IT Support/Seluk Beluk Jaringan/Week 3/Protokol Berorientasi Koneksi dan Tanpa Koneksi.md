@@ -20,3 +20,6 @@ Ketergantungan TCP pada pengakuan untuk setiap bit yang dikirim memberinya wewen
 Sebaliknya, protokol tanpa koneksi seperti UDP (User Datagram Protocol) tidak bergantung pada koneksi atau pengakuan. UDP cocok untuk pesan yang kurang kritis, seperti video streaming di mana kehilangan frame sesekali mungkin tidak berdampak signifikan pada pengalaman menonton. Absennya overhead TCP pada UDP memungkinkan transmisi video berpotensi berkualitas lebih tinggi dengan menyimpan lebih banyak bandwidth untuk transfer data.
 
 Sebagai kesimpulan, pilihan antara protokol berorientasi koneksi (TCP) dan tanpa koneksi (UDP) bergantung pada persyaratan spesifik, dengan TCP ideal untuk memastikan keandalan data dan UDP menguntungkan untuk aplikasi berbandwidth tinggi yang kurang kritis seperti video streaming.
+
+Read Before : [[Status Soket TCP]]
+Read Next : [[Bahan Bacaan Tambahan untuk membandingkan Porta Sistem dan Ephemeral]]
