@@ -8,27 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5953fe17f89011fd",
+            "id": "2a98b9dd0a432aa8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coursea IT Support/Welcome to the Course.md",
+                "file": "Coursea IT Support/Seluk Beluk Jaringan/Week 3/Protokol Berorientasi Koneksi dan Tanpa Koneksi.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "2a98b9dd0a432aa8",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coursea IT Support/Welcome to the Course.md",
+                "file": "Coursea IT Support/Seluk Beluk Jaringan/Week 3/Protokol Berorientasi Koneksi dan Tanpa Koneksi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Coursea IT Support/Welcome to the Course.md",
+                "file": "Coursea IT Support/Seluk Beluk Jaringan/Week 3/Protokol Berorientasi Koneksi dan Tanpa Koneksi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Coursea IT Support/Welcome to the Course.md"
+                "file": "Coursea IT Support/Seluk Beluk Jaringan/Week 3/Protokol Berorientasi Koneksi dan Tanpa Koneksi.md"
               }
             }
           }
@@ -155,14 +146,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c488487b1a191ebf",
+  "active": "2a98b9dd0a432aa8",
   "lastOpenFiles": [
-    "Coursea IT Support/Seluk Beluk Jaringan/Week 3/Tanda Kontrol TCP dan Three-Way Handshake (Berjabat tangan Tiga Fase).md",
     "Coursea IT Support/Seluk Beluk Jaringan/Week 3/Status Soket TCP.md",
+    "Coursea IT Support/Seluk Beluk Jaringan/Week 3/Protokol Berorientasi Koneksi dan Tanpa Koneksi.md",
+    "Coursea IT Support/Seluk Beluk Jaringan/Week 2/Protokol Gateway interior.md",
     "Coursea IT Support/Welcome to the Course.md",
+    "Coursea IT Support/Seluk Beluk Jaringan/Week 3/Tanda Kontrol TCP dan Three-Way Handshake (Berjabat tangan Tiga Fase).md",
     "Coursea IT Support/Seluk Beluk Jaringan/Week 2",
     "Coursea IT Support/Seluk Beluk Jaringan/Week 3",
-    "Coursea IT Support/Seluk Beluk Jaringan/Week 2/Protokol Gateway interior.md",
     "Welcome.md",
     "Coursea IT Support/Seluk Beluk Jaringan",
     "Coursea IT Support",
