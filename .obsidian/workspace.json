@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coursea IT Support/Seluk Beluk Jaringan/Week 3/Lapisan Aplikasi.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coursea IT Support/Seluk Beluk Jaringan/Week 3/Lapisan Aplikasi.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Coursea IT Support/Seluk Beluk Jaringan/Week 3/Lapisan Aplikasi.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Coursea IT Support/Seluk Beluk Jaringan/Week 3/Lapisan Aplikasi.md"
+                "file": "README.md"
               }
             }
           }
@@ -148,13 +148,23 @@
   },
   "active": "2a98b9dd0a432aa8",
   "lastOpenFiles": [
-    "Coursea IT Support/Seluk Beluk Jaringan/Week 3/Firewall.md",
-    "Coursea IT Support/Seluk Beluk Jaringan/Week 3/Lapisan Aplikasi.md",
-    "Coursea IT Support/Seluk Beluk Jaringan/Week 3/Bahan Bacaan Tambahan untuk membandingkan Porta Sistem dan Ephemeral.md",
+    "2024-02-08.md",
+    "Coursea IT Support/Seluk Beluk Jaringan/Week 4/0. List Week 4.md",
+    "Coursea IT Support/Seluk Beluk Jaringan/Week 4/2. Mengapa kita membutuhkan DNS.md",
+    "Untitled.canvas",
+    "Coursea IT Support/Seluk Beluk Jaringan/Week 3/0. List Week 3.md",
+    "Coursea IT Support/Seluk Beluk Jaringan/Week 3/6. Lapisan Aplikasi.md",
+    "Coursea IT Support/Seluk Beluk Jaringan/Week 3/5. Firewall.md",
+    "Coursea IT Support/Seluk Beluk Jaringan/Week 3/4. Bahan Bacaan Tambahan untuk membandingkan Porta Sistem dan Ephemeral.md",
+    "Coursea IT Support/Seluk Beluk Jaringan/Week 3/3. Protokol Berorientasi Koneksi dan Tanpa Koneksi.md",
+    "Coursea IT Support/Seluk Beluk Jaringan/Week 3/2. Status Soket TCP.md",
+    "Coursea IT Support/Seluk Beluk Jaringan/Week 3/1. Tanda Kontrol TCP dan Three-Way Handshake (Berjabat tangan Tiga Fase).md",
+    "3. Protokol Berorientasi Koneksi dan Tanpa Koneksi.md",
+    "Coursea IT Support/Seluk Beluk Jaringan/List.md",
+    "Coursea IT Support/Seluk Beluk Jaringan/Week 4/1. Pengantar Layanan Jaringan.md",
+    "Coursea IT Support/Seluk Beluk Jaringan/Week 4/Untitled",
+    "Coursea IT Support/Seluk Beluk Jaringan/Week 4",
     "README.md",
-    "Coursea IT Support/Seluk Beluk Jaringan/Week 3/Protokol Berorientasi Koneksi dan Tanpa Koneksi.md",
-    "Coursea IT Support/Seluk Beluk Jaringan/Week 3/Status Soket TCP.md",
-    "Coursea IT Support/Seluk Beluk Jaringan/Week 3/Tanda Kontrol TCP dan Three-Way Handshake (Berjabat tangan Tiga Fase).md",
     "Coursea IT Support/Seluk Beluk Jaringan/Week 2/Protokol Gateway interior.md",
     "Coursea IT Support/Welcome to the Course.md",
     "Coursea IT Support/Seluk Beluk Jaringan/Week 2",
